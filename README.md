@@ -73,7 +73,3 @@ Design Patterns in C#
 I will be continuously updating this repository with new topics, examples, and best practices. Feel free to fork, contribute, or star this repo!
 
 
----
-
-This description will clearly define what your repository contains and how users can benefit from it. 🚀 Let me know if you need modifications!
-
